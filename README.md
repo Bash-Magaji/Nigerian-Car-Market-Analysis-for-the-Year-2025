@@ -1,4 +1,4 @@
-# Nigerian Car Market Analysis for the Year 2025
+# Nigerian Car Market Analysis for the Year 2024
 
 # 1.	Outline
 
@@ -22,7 +22,8 @@
 
 # 2. Introduction
  
- <img width="975" height="421" alt="image" src="https://github.com/user-attachments/assets/9f72f84b-d462-403a-9c2b-3b59684f7f9b" />
+ <img width="1854" height="800" alt="Nigerian Car Market Dashboard" src="https://github.com/user-attachments/assets/d9b1acb0-fee7-4335-a43e-64363b3edc2d" />
+
 
 This analysis explores the Nigerian car market across three key segments; brand new, foreign used, and Nigerian used vehicles. It examines over 2,500 cars from various brands, highlighting trends in brand popularity, body type, fuel type, transmission, engine size, and regional distribution. Toyota emerges as the dominant brand, with SUVs and automatic transmissions being the most preferred choices. The analysis also compares pricing, mileage, and performance metrics, offering insights to guide inventory planning, marketing strategies, and market positioning for the industry stakeholders.
 The data was analyzed using Microsoft Excel.
